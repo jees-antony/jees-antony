@@ -2,24 +2,30 @@
 *Location:* `Kochi onsite`
 
 *Today's tasks done:*
-* Sud-Chemi offer coordination
-* Project tracking
-* Plan to implement new project execution methods
-* Follow up TMCS for NI quote,
+* Punnapra offer preparation support
+* SOG technical offer follow up with VSSC and TMCS
+* Project Cordination, PDDP, Ganga, Process CIP
+* CFT Online support
+* Waterfall Project structure preparation and discusion
+* Training material preparation
 
 *Tomorrow's planned tasks:* 
-* Project training material preparation
-* Scrum methodology implementation discussion
-* Waterfall project plan structuring
+* Punnapra offer finalization
+* Training material preparation
+* Programming standardization
+* AI LLM technical api preparation for goosefly
+* Project cordiantion
 
 *Impediments in the way*
-* Team shortage for multiple projects at the same time,
-* Project planning need to revise to specific techniques and continues in-touch with the client,
+* Technician availability for Ganga
+* Training slot unavailability.
 
 *Project Status:*
-* Process CIP - Jishad some clarifications on logic,
-* Ganga - Sreelal will go to site on Monday
-* PDDP - testing is going on, PHE need to be ready for full operation
+* PDDP - Program finalisation needs to do,
+* GK - Need to send commision engineer around March 10
+
+
+
 
 ###########################################################################
 *7. Issues/Challenge’s faced:* Mechanical team shortage,
