@@ -10,11 +10,11 @@
 * Training material preparation
 
 *Tomorrow's planned tasks:* 
-* Punnapra offer finalization
+* Salisons proposal
 * Training material preparation
-* Programming standardization
 * AI LLM technical api preparation for goosefly
 * Project cordiantion
+* Programming standardization
 
 *Impediments in the way*
 * Technician availability for Ganga
