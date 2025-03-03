@@ -2,23 +2,18 @@
 *Location:* `Kochi onsite`
 
 *Today's tasks done:*
-* Punnapra offer preparation support
-* SOG technical offer follow up with VSSC and TMCS
-* Project Cordination, PDDP, Ganga, Process CIP
-* CFT Online support
-* Waterfall Project structure preparation and discusion
-* Training material preparation
+* Process CIP and Curd meeting
+* Curd Project Schedule mailed
+* Estimation Planning - SudChemi, UB
+* project Cordination
 
 *Tomorrow's planned tasks:* 
-* Salisons proposal
-* Training material preparation
-* AI LLM technical api preparation for goosefly
-* Project cordiantion
-* Programming standardization
+* Process CIP/Curd meeting
+* Program Checking Process CIP/Curd
 
 *Impediments in the way*
 * Technician availability for Ganga
-* Training slot unavailability.
+* Training slot unavailability
 
 *Project Status:*
 * PDDP - Program finalisation needs to do,
