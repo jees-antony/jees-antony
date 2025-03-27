@@ -2,18 +2,18 @@
 *Location:* `Kochi onsite`
 
 *Today's tasks done:*
-* Process CIP and Curd meeting
-* Curd Project Schedule mailed
-* Estimation Planning - SudChemi, UB
-* project Cordination
+* Project checking GK HMI
+* Curd past status updation
+* Goosefly daily sprint, project planning and Meeting.
+* Goose Elevate planning and training material planning -- 50% completed.
+* Servo selection for Karun.
+* License transfer support for Prabhu UAE.
 
 *Tomorrow's planned tasks:* 
-* Process CIP/Curd meeting
-* Program Checking Process CIP/Curd
+* Site visit, pollachi with Karun and Jobin
 
 *Impediments in the way*
-* Technician availability for Ganga
-* Training slot unavailability
+* Project planning efficiency needs to be improved.
 
 *Project Status:*
 * PDDP - Program finalisation needs to do,
