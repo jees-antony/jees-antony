@@ -1,10 +1,10 @@
 *Attendance Report 07/07/25*
 
 * Ebin Chandi
-Present - Site - Midas
+[Present - Site - Midas]
 
 * Sreelal
-Present - Site - Ganga
+[Present - Site - Ganga]
 
 * Alan Roy
 Present - HO - 
