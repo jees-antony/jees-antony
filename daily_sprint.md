@@ -1,26 +1,11 @@
 *Attendance Report 07/07/25*
-
-* Ebin Chandi
-[Present - Site - Midas]
-
-* Sreelal
-[Present - Site - Ganga]
-
-* Alan Roy
-Present - HO - 
-
-* Sajan
-Present - HO - 
-
-* Abhiram
-Leave
-
-* Anu
-Leave
-
-* Aneesha
-Leave
-
+* Ebin Chandi  `Present - Site - Midas`
+* Sreelal `Present - Site - Ganga`
+* Alan Roy `Present - HO - Sima marine` 
+* Sajan `Present - HO - Hindalco`
+* Abhiram `Leave`
+* Anu `Leave`
+* Aneesha `Leave`
 
 -----
 -----
