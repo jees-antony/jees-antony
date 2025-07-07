@@ -1,24 +1,24 @@
 *Attendance Report 07/07/25*
 
-*Ebin Chandi*
+*Ebin Chandi
 Present - Site - Midas
 
-*Sreelal*
+*Sreelal
 Present - Site - Ganga
 
-*Alan Roy*
+*Alan Roy
 Present - HO - 
 
-*Sajan*
+*Sajan
 Present - HO - 
 
-*Abhiram*
+*Abhiram
 Leave
 
-*Anu*
+*Anu
 Leave
 
-*Aneesha*
+*Aneesha
 Leave
 
 
